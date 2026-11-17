@@ -429,10 +429,4 @@ The objective of this project is to build a practical **Retrieval-Augmented Gene
 
 GitHub: [sheefa01](https://github.com/sheefa01)
 
----
 
-## ⚖️ Disclaimer
-
-This project is intended for **educational and research purposes only**.
-
-The generated responses should not be considered professional legal advice. Users should verify legal information against authoritative legal sources and consult a qualified legal professional where appropriate.
