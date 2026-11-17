@@ -421,12 +421,6 @@ Possible future improvements include:
 
 The objective of this project is to build a practical **Retrieval-Augmented Generation system for legal research** that allows users to ask questions about legal documents and receive concise answers grounded in retrieved evidence, along with source and page information for verification.
 
----
 
-## 👩‍💻 Author
-
-**Sheefa**
-
-GitHub: [sheefa01](https://github.com/sheefa01)
 
 
